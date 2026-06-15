@@ -1,0 +1,14 @@
+{
+  "name": "local-llm-on-apple-silicon",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Zenn book: Apple Silicon Mac でローカル LLM を建てる (L1/L2 snapshot)",
+  "scripts": {
+    "preview": "zenn preview",
+    "new:article": "zenn new:article",
+    "new:book": "zenn new:book"
+  },
+  "devDependencies": {
+    "zenn-cli": "latest"
+  }
+}

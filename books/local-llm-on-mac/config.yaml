@@ -30,4 +30,5 @@ chapters:
   - a4-troubleshooting
   - a5-endpoints
   - a6-remote-dev
+  - a7-agent-supervision
   - 99-reading-guide
